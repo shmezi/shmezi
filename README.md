@@ -5,7 +5,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shmezi&show_icons=true&locale=en" alt="shmezi" /></p>
 
-- 🔭 I’m currently working on a some cool new projects! [Go check em' out][https://github.com/shmezi]
+- 🔭 I’m currently working on a some cool new projects! [Go check em' out](https://github.com/shmezi)
 
 - 💬 Ask me about **Kotlin or java development.**
 
