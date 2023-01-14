@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shmezi&label=Profile%20views&color=0e75b6&style=flat" alt="shmezi" /> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shmezi&show_icons=true&locale=en" alt="shmezi" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?shmezi=anuraghazra&show_icons=true&theme=cobalt)
 
 - 🔭 I’m currently working on a some cool new projects! [Go check em' out](https://github.com/shmezi?tab=repositories)
 
