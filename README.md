@@ -5,6 +5,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shmezi&show_icons=true&theme=cobalt)
 
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shmezi)]
+
+
 - 🔭 I’m currently working on a some cool new projects! [Go check em' out](https://github.com/shmezi?tab=repositories)
 
 - 💬 Ask me about **Kotlin or java development.**
