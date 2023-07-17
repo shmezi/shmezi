@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alex Irving (AKA shmezi)</h1>
+<h1 align="center">Hi 👋, I'm Ezra Golombek (AKA shmezi)</h1>
 <h3 align="center">A passionate lazy Java developer from Canada</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shmezi&label=Profile%20views&color=0e75b6&style=flat" alt="shmezi" /> </p>
@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Kotlin or java development.**
 
-- 📫 How to reach me **alexirving992@gmail.com**
+- 📫 How to reach me **ezragolombek.main@gmail.com**
 
 - ⚡ Fun fact **I like Wumpusses.**
 
