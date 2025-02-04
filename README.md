@@ -9,7 +9,7 @@
 
 - 📫 Reach me at **Ezragolombek.main@gmail.com**
 
-<figure><embed src="https://wakatime.com/share/@shmezi/b9ad17bf-9988-42be-94fe-f851bf1de104.svg"></embed></figure>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@shmezi/663e86e5-1ee8-4a81-84f8-8b21546b9b23.png" /></a>
 
 <p align="left">
 </p>
