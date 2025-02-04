@@ -11,7 +11,6 @@
 
 <figure><embed src="https://wakatime.com/share/@shmezi/b9ad17bf-9988-42be-94fe-f851bf1de104.svg"></embed></figure>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
