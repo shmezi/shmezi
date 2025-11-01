@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ezra Golombek</h1>
-<h3 align="center">A Canadian full stack developer in Israel</h3>
+<h3 align="center">A Canadian developer in Israel</h3>
 
-- 🔭 I’m currently working on [TinkerCAD Assistant](https://github.com/shmezi/TinkerCADAssistant)
-
-- 👯 I’m looking to collaborate on [SVG-Edit](https://github.com/shmezi/SVGEdit)
+I develop all things from full-stack applications, to low-level interperter and everything inbetween, mixing hardware and software and of course learning in between.
 
 - 👨‍💻 All of my projects are available here on github [github.com/shmezi](github.com/shmezi)
 
