@@ -7,6 +7,7 @@ I develop all things from full-stack applications, to low-level interperter and 
 
 - 📫 Reach me at **Ezragolombek.main@gmail.com**
 
+[![wakatime](https://wakatime.com/badge/user/4a9dfc6f-007d-4928-8474-da15e079dd3e.svg)](https://wakatime.com/@4a9dfc6f-007d-4928-8474-da15e079dd3e)
 
 <p align="left">
 </p>
